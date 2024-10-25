@@ -21,6 +21,7 @@ public abstract class Question {
         return question;
     }
 
+
     public HashMap<Integer, Option> getChoiceMap() {
         return choiceMap;
     }

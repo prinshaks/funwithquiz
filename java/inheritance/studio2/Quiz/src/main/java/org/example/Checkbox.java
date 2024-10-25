@@ -6,3 +6,4 @@ public class Checkbox extends Question {
         //setMaxResponses(getNumCorrect());
     }
 }
+

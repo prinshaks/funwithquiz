@@ -5,3 +5,4 @@ public class MultipleChoice extends Question {
         super(question, choiceArray);
     }
 }
+
